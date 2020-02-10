@@ -1,0 +1,4 @@
+item_id,price,quantity
+1,15000,3
+3,2500,3
+4,200,6

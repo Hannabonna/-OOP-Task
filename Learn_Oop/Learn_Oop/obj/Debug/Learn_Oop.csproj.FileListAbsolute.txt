@@ -1,0 +1,5 @@
+/Users/gigaming/Projects/Learn_Oop/Learn_Oop/bin/Debug/Learn_Oop.exe
+/Users/gigaming/Projects/Learn_Oop/Learn_Oop/bin/Debug/Learn_Oop.pdb
+/Users/gigaming/Projects/Learn_Oop/Learn_Oop/obj/Debug/Learn_Oop.csprojAssemblyReference.cache
+/Users/gigaming/Projects/Learn_Oop/Learn_Oop/obj/Debug/Learn_Oop.exe
+/Users/gigaming/Projects/Learn_Oop/Learn_Oop/obj/Debug/Learn_Oop.pdb
